@@ -1,0 +1,3 @@
+node_modules
+# dist  ? esto se comenta si quieres subir la carpeta "dist"
+.DS_Store
